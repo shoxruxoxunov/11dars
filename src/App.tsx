@@ -14,7 +14,7 @@ import {
   Registor,
   SingleProduct,
 } from "./pages";
-import { Header, Navbar } from "./components";
+
 
 function App() {
   const routes = createBrowserRouter([
